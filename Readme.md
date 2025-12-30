@@ -42,9 +42,10 @@
 
 ### **安装步骤**
 
-1. **克隆仓库**：  
+1. **克隆仓库(如果没有git，可以把整个工程下载下来)**：  
    
    ```bash
+   git init
    git clone https://github.com/xuemanya/AIgame.git
    cd AIgame
    ```
