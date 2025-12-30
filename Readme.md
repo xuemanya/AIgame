@@ -30,7 +30,7 @@
 
 | 主菜单 | 战斗画面 |
 | :---- | :---- |
-| [![image-20251230165444461](pic/image-20251230165444461.png) | [![image-20251230165511887](C:\Users\xueman\AppData\Roaming\Typora\typora-user-images\image-20251230165511887.png)](https://github.com/xuemanya/AIgame/blob/main/pic/image-20251230165511887.png) |
+| [![image-20251230165444461](pic/image-20251230165444461.png) | [![image-20251230165511887]](pic/image-20251230165511887.png) |
 
 | 商店界面 | Boss 战 |
 | :---- | :---- |
